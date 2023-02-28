@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshi2907
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning django rest framework
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate with an IT Company
 - 📫 How to reach me priyanshiprajapati29@gmail.com
 
