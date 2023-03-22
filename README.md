@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate with an IT Company
-- 📫 How to reach me priyanshiprajapati29@gmail.com
+- 📫 How to reach me priyanshiprajapati29@gmail.com / 2907priyanshi@gmail.com
 
 <!---
 Priyanshi2907/Priyanshi2907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
